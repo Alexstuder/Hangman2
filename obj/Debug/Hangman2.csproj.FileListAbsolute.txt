@@ -1,0 +1,18 @@
+\\WORKSTATION\Users\alex\Documents\source\C#.PGM\Hangman2\Hangman2\Hangman2\bin\Debug\Hangman2.exe.config
+\\WORKSTATION\Users\alex\Documents\source\C#.PGM\Hangman2\Hangman2\Hangman2\obj\Debug\Hangman2.csprojResolveAssemblyReference.cache
+\\WORKSTATION\Users\alex\Documents\source\C#.PGM\Hangman2\Hangman2\Hangman2\obj\Debug\Hangman2.Form1.resources
+\\WORKSTATION\Users\alex\Documents\source\C#.PGM\Hangman2\Hangman2\Hangman2\obj\Debug\Hangman2.Properties.Resources.resources
+\\WORKSTATION\Users\alex\Documents\source\C#.PGM\Hangman2\Hangman2\Hangman2\obj\Debug\Hangman2.csproj.GenerateResource.Cache
+\\WORKSTATION\Users\alex\Documents\source\C#.PGM\Hangman2\Hangman2\Hangman2\bin\Debug\Hangman2.exe
+\\WORKSTATION\Users\alex\Documents\source\C#.PGM\Hangman2\Hangman2\Hangman2\bin\Debug\Hangman2.pdb
+\\WORKSTATION\Users\alex\Documents\source\C#.PGM\Hangman2\Hangman2\Hangman2\obj\Debug\Hangman2.exe
+\\WORKSTATION\Users\alex\Documents\source\C#.PGM\Hangman2\Hangman2\Hangman2\obj\Debug\Hangman2.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Hangman2\Hangman2\Hangman2\bin\Debug\Hangman2.exe.config
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Hangman2\Hangman2\Hangman2\obj\Debug\Hangman2.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Hangman2\Hangman2\Hangman2\obj\Debug\Hangman2.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Hangman2\Hangman2\Hangman2\bin\Debug\Hangman2.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Hangman2\Hangman2\Hangman2\bin\Debug\Hangman2.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Hangman2\Hangman2\Hangman2\obj\Debug\Hangman2.Form1.resources
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Hangman2\Hangman2\Hangman2\obj\Debug\Hangman2.Properties.Resources.resources
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Hangman2\Hangman2\Hangman2\obj\Debug\Hangman2.csproj.GenerateResource.Cache
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Hangman2\Hangman2\Hangman2\obj\Debug\Hangman2.csprojResolveAssemblyReference.cache
